@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36">
   <diagram name="Page-1" id="6wrsCaG5yDC94IQTLllO">
-    <mxGraphModel dx="1175" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1340" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1164,9 +1164,6 @@
         </mxCell>
         <mxCell id="Iv69uTcv1DyuaW24PNf1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EXPERIMENT - 8" vertex="1">
           <mxGeometry height="30" width="130" x="85" y="-160" as="geometry" />
-        </mxCell>
-        <mxCell id="Iv69uTcv1DyuaW24PNf1-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NAME - MANDEEP KAUR&lt;div&gt;UID- 23BCS10854&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;SECTION - KRG_2B&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="210" x="-145" y="-210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
